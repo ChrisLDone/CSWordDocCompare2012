@@ -38,3 +38,15 @@ C:\Covea\Downloads\How to compare two Word document and show the difference\C#\C
 C:\Covea\Downloads\How to compare two Word document and show the difference\C#\CSWordDocCompare2012\obj\Debug\WordDocCompare.exe
 C:\Covea\Downloads\How to compare two Word document and show the difference\C#\CSWordDocCompare2012\obj\Debug\WordDocCompare.pdb
 C:\Covea\Downloads\How to compare two Word document and show the difference\C#\CSWordDocCompare2012\obj\Debug\WordDocCompare.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Documents\GitHub\CSWordDocCompare\bin\Debug\WordDocCompare.exe.config
+C:\Users\Chris\Documents\GitHub\CSWordDocCompare\bin\Debug\WordDocCompare.exe
+C:\Users\Chris\Documents\GitHub\CSWordDocCompare\bin\Debug\WordDocCompare.pdb
+C:\Users\Chris\Documents\GitHub\CSWordDocCompare\bin\Debug\TikaOnDotNet.TextExtraction.pdb
+C:\Users\Chris\Documents\GitHub\CSWordDocCompare\obj\Debug\WordDocCompare.csprojAssemblyReference.cache
+C:\Users\Chris\Documents\GitHub\CSWordDocCompare\obj\Debug\CSWordDocCompare2012.Form1.resources
+C:\Users\Chris\Documents\GitHub\CSWordDocCompare\obj\Debug\WordDocCompare.Properties.Resources.resources
+C:\Users\Chris\Documents\GitHub\CSWordDocCompare\obj\Debug\WordDocCompare.csproj.GenerateResource.cache
+C:\Users\Chris\Documents\GitHub\CSWordDocCompare\obj\Debug\WordDocCompare.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Documents\GitHub\CSWordDocCompare\obj\Debug\WordDocCompare.csproj.CopyComplete
+C:\Users\Chris\Documents\GitHub\CSWordDocCompare\obj\Debug\WordDocCompare.exe
+C:\Users\Chris\Documents\GitHub\CSWordDocCompare\obj\Debug\WordDocCompare.pdb
